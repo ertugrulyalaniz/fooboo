@@ -2,6 +2,9 @@
   "name": "fooboo",
   "private": true,
   "version": "0.0.0",
+  "engines": {
+    "node": "8.9.3"
+  }
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
